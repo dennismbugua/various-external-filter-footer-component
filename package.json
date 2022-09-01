@@ -1,0 +1,27 @@
+{
+  "name": "rt-various-external-filter-footer-component-forked",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/r74mokr5x4",
+  "main": "index.js",
+  "dependencies": {
+    "react-table": "6.7.6",
+    "react-dom": "15.5.3",
+    "react-bootstrap-date-picker": "5.1.0",
+    "react-bootstrap": "0.31.3",
+    "react": "15.5.3",
+    "namor": "1.0.1",
+    "match-sorter": "1.8.1",
+    "create-react-class": "15.6.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
